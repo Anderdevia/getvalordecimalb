@@ -1,0 +1,15 @@
+msbuild D:\SISEBE_MX\CommonComponents\Sistran.Core.Application.CommonComponents.SiseBE.sln
+
+msbuild D:\SISEBE_MX\Parametrization\ParametrizationServices.3GBE.sln
+
+msbuild D:\SISEBE_MX\Utils\Utils3GBE.sln
+
+msbuild D:\SISEBE_MX\Core\Source\Services\Billing\Core.BillingServices.sln
+
+msbuild D:\SISEBE_MX\Source\Core.WebServices.3GBEProvider.sln
+
+msbuild D:\SISEBE_MX\Company\Source\Company.WebServices.3GBEProvider.sln
+
+msbuild D:\SISEBE_MX\Company\Source\Website\Company.Launcher.sln
+
+msbuild D:\SISEBE_MX\Company\Source\Services\Notifications\NotificationWebApi\NotificationWebApi.sln
